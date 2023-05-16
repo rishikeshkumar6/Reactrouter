@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Todolist } from './components/Todo-list';
 function App() {
@@ -6,7 +6,8 @@ function App() {
    
    <div>
     <Todolist/>
-   </div>
+    
+    </div>
   );
 }
 
